@@ -1,6 +1,7 @@
 import java.util.*;
 import java.util.function.Predicate;
 
+// comment
 public class MyProgram {
 
 	public static void main(String[] args) {
