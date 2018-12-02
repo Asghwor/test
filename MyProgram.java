@@ -3,7 +3,6 @@ import java.util.function.Predicate;
 
 public class MyProgram {
 
-	//hello world!
 	public static void main(String[] args) {
 
 		List<Object> list = Arrays.asList("32323", 2.2, 3, 3.4, 5, "2323", 1);
